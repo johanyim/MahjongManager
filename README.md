@@ -1,6 +1,6 @@
-# MahjongManager
+# test project
 
-My IB computer science project
+My project
 
 My first time using github
 
